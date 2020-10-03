@@ -36,7 +36,7 @@ public class TeachersActivity extends AppCompatActivity {
         setContentView(R.layout.activity_teachers);
         initAll();
     }
-//保存view的状态，
+
     private void initAll() {
         setupAdapter();
         setupListViewMultiSelect();
@@ -104,7 +104,7 @@ public class TeachersActivity extends AppCompatActivity {
             }
         });
     }
-//
+//set up  an customised dialog
     private void setupCustomDialog() {
         final View alertLayout = getLayoutInflater().inflate(R.layout.dialog_add_teacher, null);
         AlertDialogsHelper.getAddTeacherDialog(TeachersActivity.this, alertLayout, adapter);
