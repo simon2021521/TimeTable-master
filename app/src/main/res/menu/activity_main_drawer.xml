@@ -12,6 +12,14 @@
             android:title="@string/school_website" />
     </group>
 
+    <group android:id="@+id/menu_social"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/facebook"
+            android:icon="@drawable/baseline_open_in_browser_black_18"
+            android:title="facebook" />
+    </group>
+    
     <group android:id="@+id/menu_mid"
         android:checkableBehavior="none">
 
