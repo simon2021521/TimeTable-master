@@ -53,7 +53,7 @@
             android:parentActivityName=".activities.NotesActivity" />
         <activity
             android:name=".activities.TeachersActivity"
-            android:label="Teachers"
+            android:label="Contacts"
             android:parentActivityName=".activities.MainActivity" />
         <activity
             android:name=".activities.SettingsActivity"
@@ -65,7 +65,7 @@
         </activity>
         <activity
             android:name=".activities.ExamsActivity"
-            android:label="Exams"
+            android:label="Events"
             android:parentActivityName=".activities.MainActivity" />
 
         <receiver
