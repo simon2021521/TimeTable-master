@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">TimeTable</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Fragments strings -->
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+    <string name="select_snackbar">Veuillez sélectionner un élément.</string>
+    <string name="selected">Choisi</string>
+
+    <!-- Main Activity strings -->
+    <string name="timetable">TimeTable</string>
+    <string name="ulan_nurymov_gmail_com">ulan.nurymov@gmail.com</string>
+    <string name="seven_days_of_the_week">7 Days of the Week</string>
+    <string name="subject">Matière</string>
+    <string name="field_error">le champ ne peut pas être vide!</string>
+    <string name="time_error">Le champ de temps ne peut pas être vide!</string>
+    <string name="week">La semaine</string>
+    <string name="delete">Effacer</string>
+    <string name="edit">Éditer</string>
+    <string name="school_website">Site Web de l\'école</string>
+    <string name="school_website_snackbar">Veuillez définir l\'URL du site Web de votre école dans les paramètres.</string>
+
+    <string name="add_subject">Ajouter un sujet</string>
+    <string name="edit_subject">Modifier le sujet</string>
+    <string name="teacher">Prof</string>
+    <string name="room">Chambre</string>
+    <string name="time">Temps</string>
+    <string name="save">Sauvegarder</string>
+    <string name="cancel">Annuler</string>
+    <string name="time_to_dialog">À:</string>
+    <string name="time_from_dialog">De:</string>
+    <string name="subject_dialog">Matière:</string>
+    <string name="teacher_dialog">Prof:</string>
+    <string name="room_dialog">Chambre:</string>
+    <string name="select_time">Sélectionnez l\'heure</string>
+    <string name="select_color">Sélectionnez la couleur</string>
+    <string name="choose_time">Choisissez l\'heure</string>
+    <string name="choose_date">Choisissez la date</string>
+    <string name="choose_color">Choisissez la couleur</string>
+
+    <!-- Homeworks Activity strings -->
+    <string name="title_activity_homeworks">HomeworksActivity</string>
+    <string name="homeworks">devoirs</string>
+    <string name="select_date">Sélectionner une date</string>
+    <string name="deadline_dialog">Date limite:</string>
+    <string name="deadline">Date limite</string>
+    <string name="description_dialog">La description:</string>
+    <string name="desctiption">La description</string>
+    <string name="date_error">Le champ de date ne peut pas être vide!</string>
+    <string name="edit_homework">Modifier les devoirs</string>
+    <string name="add_homework">Ajouter des devoirs</string>
+    <string name="deadline_snackbar">Le champ Date limite ne peut pas être vide!</string>
+    <string name="date">Date</string>
+
+    <!-- Notes Activity strings -->
+    <string name="notes">Remarques</string>
+    <string name="title_dialog">Titre:</string>
+    <string name="add_note">Ajouter une note</string>
+    <string name="edit_note">Note éditée</string>
+    <string name="title_error">Le champ de titre ne peut pas être vide!</string>
+    <string name="title">Titre</string>
+    <string name="saved">Enregistré</string>
+
+    <!-- Teachers Activity strings -->
+    <string name="teachers">Enseignants</string>
+    <string name="add_teacher">Ajouter un enseignant</string>
+    <string name="edit_teacher">Modifier l\'enseignant</string>
+    <string name="name_dialog">Nom:</string>
+    <string name="post_dialog">Publier:</string>
+    <string name="phonenumber_dialog">Téléphone:</string>
+    <string name="email_dialog">Email:</string>
+    <string name="name">Nom</string>
+    <string name="phone_number">Numéro de téléphone</string>
+    <string name="post">Publier</string>
+    <string name="email">Email</string>
+
+    <!-- Exams Activity strings -->
+    <string name="exams">Examens</string>
+    <string name="add_exam">Ajouter un examen</string>
+    <string name="date_dialog">Date:</string>
+    <string name="time_dialog">Temps:</string>
+
+    <!-- Settings Activity strings -->
+    <string name="sevendays_setting">Activer 7 jours de la semaine</string>
+    <string name="school_website_setting">Changer le site Web de l\'école</string>
+    <string name="school_website_setting_summary">Modifier l\'URL du site Web de votre école</string>
+
+    <!-- Notification -->
+    <string name="notification_title">Les leçons d\'aujourd\'hui</string>
+    <string name="do_not_have_lessons">Vous n\'avez pas de cours!</string>
+
+</resources>
