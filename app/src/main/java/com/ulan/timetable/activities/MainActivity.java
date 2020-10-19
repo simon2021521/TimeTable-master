@@ -184,7 +184,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     Snackbar.make(navigationView, R.string.school_website_snackbar, Snackbar.LENGTH_SHORT).show();
                 }
                 return true;
-            case R.id facebook:
+            case R.id.facebook:
                 Intent openLinksIntent = new Intent (Intent.ACTION_VIEW,Uri.parse("https://m.facebook.com/RMITuniversity"));
                 startActivity(openLinksIntent);
                 return true;
