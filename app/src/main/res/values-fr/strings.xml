@@ -19,7 +19,7 @@
 
     <!-- Main Activity strings -->
     <string name="timetable">TimeTable</string>
-    <string name="ulan_nurymov_gmail_com">ulan.nurymov@gmail.com</string>
+    <string name="ulan_nurymov_gmail_com">https://www.rmit.edu.au/</string>
     <string name="seven_days_of_the_week">7 Days of the Week</string>
     <string name="subject">Matière</string>
     <string name="field_error">le champ ne peut pas être vide!</string>
