@@ -105,4 +105,4 @@ public class ExamsActivity extends AppCompatActivity {
         final View alertLayout = getLayoutInflater().inflate(R.layout.dialog_add_exam, null);
         AlertDialogsHelper.getAddExamDialog(ExamsActivity.this, alertLayout, adapter);
     }
-}
+}//this is dora
