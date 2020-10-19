@@ -4,6 +4,7 @@ import android.app.AlarmManager;
 import android.app.PendingIntent;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.Snackbar;
@@ -182,6 +183,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 } else {
                     Snackbar.make(navigationView, R.string.school_website_snackbar, Snackbar.LENGTH_SHORT).show();
                 }
+                return true;
+            case R.id facebook:
+                Intent openLinksIntent = new Intent (Intent.ACTION_VIEW,Uri.parse("https://m.facebook.com/RMITuniversity"));
+                startActivity(openLinksIntent);
                 return true;
             case R.id.exams:
                 Intent exams = new Intent(MainActivity.this, ExamsActivity.class);
