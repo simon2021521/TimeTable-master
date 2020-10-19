@@ -27,8 +27,8 @@
     <string name="week">Week</string>
     <string name="delete">Delete</string>
     <string name="edit">Edit</string>
-    <string name="school_website">School website</string>
-    <string name="school_website_snackbar">Please, set URL of your school website in settings.</string>
+    <string name="school_website">Website</string>
+    <string name="school_website_snackbar">Please, set URL of your website in settings.</string>
 
     <string name="add_subject">Add subject</string>
     <string name="edit_subject">Edit subject</string>
@@ -40,8 +40,8 @@
     <string name="time_to_dialog">To:</string>
     <string name="time_from_dialog">From:</string>
     <string name="subject_dialog">Subject:</string>
-    <string name="teacher_dialog">Teacher:</string>
-    <string name="room_dialog">Room:</string>
+    <string name="teacher_dialog">Contact:</string>
+    <string name="room_dialog">Location:</string>
     <string name="select_time">Select time</string>
     <string name="select_color">Select color</string>
     <string name="choose_time">Choose time</string>
@@ -50,15 +50,15 @@
 
     <!-- Homeworks Activity strings -->
     <string name="title_activity_homeworks">HomeworksActivity</string>
-    <string name="homeworks">Homeworks</string>
+    <string name="homeworks">Tasks</string>
     <string name="select_date">Select date</string>
     <string name="deadline_dialog">Deadline:</string>
     <string name="deadline">Deadline</string>
     <string name="description_dialog">Description:</string>
     <string name="desctiption">Desctiption</string>
     <string name="date_error">Date field can not be empty!</string>
-    <string name="edit_homework">Edit homework</string>
-    <string name="add_homework">Add homework</string>
+    <string name="edit_homework">Edit task</string>
+    <string name="add_homework">Add task</string>
     <string name="deadline_snackbar">"Deadline field can not be empty!</string>
     <string name="date">Date</string>
 
@@ -72,9 +72,9 @@
     <string name="saved">Saved</string>
 
     <!-- Teachers Activity strings -->
-    <string name="teachers">Teachers</string>
-    <string name="add_teacher">Add teacher</string>
-    <string name="edit_teacher">Edit teacher</string>
+    <string name="teachers">Contacts</string>
+    <string name="add_teacher">Add contact</string>
+    <string name="edit_teacher">Edit contact</string>
     <string name="name_dialog">Name:</string>
     <string name="post_dialog">Post:</string>
     <string name="phonenumber_dialog">Phone:</string>
@@ -85,15 +85,15 @@
     <string name="email">Email</string>
 
     <!-- Exams Activity strings -->
-    <string name="exams">Exams</string>
-    <string name="add_exam">Add exam</string>
+    <string name="exams">Events</string>
+    <string name="add_exam">Add event</string>
     <string name="date_dialog">Date:</string>
     <string name="time_dialog">Time:</string>
 
     <!-- Settings Activity strings -->
     <string name="sevendays_setting">Enable 7 Days of the Week</string>
-    <string name="school_website_setting">Change school website</string>
-    <string name="school_website_setting_summary">Change URL of your school website</string>
+    <string name="school_website_setting">Change website</string>
+    <string name="school_website_setting_summary">Change URL of your website</string>
 
     <!-- Notification -->
     <string name="notification_title">Today\'s lessons</string>
