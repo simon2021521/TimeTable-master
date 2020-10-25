@@ -26,7 +26,7 @@
 
         <activity
             android:name=".activities.MainActivity"
-            android:label="Home Page"
+            android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
 
@@ -45,19 +45,19 @@
 
         <activity
             android:name=".activities.NotesActivity"
-            android:label="Notes"
+            android:label="@string/notes"
             android:parentActivityName=".activities.MainActivity" />
         <activity
             android:name=".activities.NoteInfoActivity"
-            android:label="Notes"
+            android:label="@string/notes"
             android:parentActivityName=".activities.NotesActivity" />
         <activity
             android:name=".activities.TeachersActivity"
-            android:label="Contacts"
+            android:label="Contact"
             android:parentActivityName=".activities.MainActivity" />
         <activity
             android:name=".activities.SettingsActivity"
-            android:label="Settings"
+            android:label="@string/action_settings"
             android:parentActivityName=".activities.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
@@ -65,7 +65,7 @@
         </activity>
         <activity
             android:name=".activities.ExamsActivity"
-            android:label="Events"
+            android:label="@string/exams"
             android:parentActivityName=".activities.MainActivity" />
 
         <receiver
