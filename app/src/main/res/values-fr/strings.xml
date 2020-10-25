@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">TimeTable</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Calendrier</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le panneau de navigation</string>
+    <string name="nav_header_title">Studio Android</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_settings">Réglages</string>
 
     <!-- Fragments strings -->
     <string name="monday">Lundi</string>
@@ -18,11 +18,11 @@
     <string name="selected">Choisi</string>
 
     <!-- Main Activity strings -->
-    <string name="timetable">TimeTable</string>
-    <string name="ulan_nurymov_gmail_com">https://www.rmit.edu.au/</string>
-    <string name="seven_days_of_the_week">7 Days of the Week</string>
+    <string name="timetable">Calendrier</string>
+    <string name="ulan_nurymov_gmail_com">ulan.nurymov@gmail.com</string>
+    <string name="seven_days_of_the_week">7 jours de la semaine</string>
     <string name="subject">Matière</string>
-    <string name="field_error">le champ ne peut pas être vide!</string>
+    <string name="field_error">Le champ ne peut pas être vide!</string>
     <string name="time_error">Le champ de temps ne peut pas être vide!</string>
     <string name="week">La semaine</string>
     <string name="delete">Effacer</string>
@@ -50,7 +50,7 @@
 
     <!-- Homeworks Activity strings -->
     <string name="title_activity_homeworks">HomeworksActivity</string>
-    <string name="homeworks">devoirs</string>
+    <string name="homeworks">Devoirs</string>
     <string name="select_date">Sélectionner une date</string>
     <string name="deadline_dialog">Date limite:</string>
     <string name="deadline">Date limite</string>
