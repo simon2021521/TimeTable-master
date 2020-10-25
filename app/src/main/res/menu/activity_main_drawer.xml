@@ -17,7 +17,7 @@
         <item
             android:id="@+id/facebook"
             android:icon="@drawable/baseline_open_in_browser_black_18"
-            android:title="facebook" />
+            android:title="Facebook" />
     </group>
     
     <group android:id="@+id/menu_mid"
