@@ -85,7 +85,7 @@
     <string name="email">Email</string>
 
     <!-- Exams Activity strings -->
-    <string name="exams">Examens</string>
+    <string name="exams">Événements</string>
     <string name="add_exam">Ajouter un examen</string>
     <string name="date_dialog">Date:</string>
     <string name="time_dialog">Temps:</string>
