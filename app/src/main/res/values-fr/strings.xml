@@ -99,4 +99,5 @@
     <string name="notification_title">Les leçons d\'aujourd\'hui</string>
     <string name="do_not_have_lessons">Vous n\'avez pas de cours!</string>
 
+    <string name="welcome">Bienvenu!</string>
 </resources>
