@@ -69,7 +69,7 @@
     <string name="edit_note">Edit note</string>
     <string name="title_error">Title field can not be empty!</string>
     <string name="title">Title</string>
-    <string name="saved">Saved</string>
+    <string name="saved">保存</string>
 
     <!-- Teachers Activity strings -->
     <string name="teachers">Teachers</string>
