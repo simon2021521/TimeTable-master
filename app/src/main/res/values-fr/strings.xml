@@ -50,7 +50,7 @@
 
     <!-- Homeworks Activity strings -->
     <string name="title_activity_homeworks">HomeworksActivity</string>
-    <string name="homeworks">Devoirs</string>
+    <string name="homeworks">Tâche</string>
     <string name="select_date">Sélectionner une date</string>
     <string name="deadline_dialog">Date limite:</string>
     <string name="deadline">Date limite</string>
@@ -72,7 +72,7 @@
     <string name="saved">Enregistré</string>
 
     <!-- Teachers Activity strings -->
-    <string name="teachers">Enseignants</string>
+    <string name="teachers">Contacts</string>
     <string name="add_teacher">Ajouter un enseignant</string>
     <string name="edit_teacher">Modifier l\'enseignant</string>
     <string name="name_dialog">Nom:</string>
