@@ -4,7 +4,7 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">设置</string>
 
     <!-- Fragments strings -->
     <string name="monday">星期一</string>
@@ -18,9 +18,9 @@
     <string name="selected">已选择</string>
 
     <!-- Main Activity strings -->
-    <string name="timetable">TimeTable</string>
-    <string name="ulan_nurymov_gmail_com">ulan.nurymov@gmail.com</string>
-    <string name="seven_days_of_the_week">7 Days of the Week</string>
+    <string name="timetable">时间表</string>
+    <string name="ulan_nurymov_gmail_com">http://www.rmit.edu.au</string>
+    <string name="seven_days_of_the_week">每周7天</string>
     <string name="subject">Subject</string>
     <string name="field_error">field can not be empty!</string>
     <string name="time_error">Time field can not be empty!</string>
